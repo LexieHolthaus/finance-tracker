@@ -9,9 +9,13 @@ requires-python = ">=3.12"
 dependencies = [
   "pandas",
   "matplotlib",
-  "jupyter",
-  "python-dotenv",
+  "pdfplumber",
+  "typer",
+  "rich",
 ]
+
+[project.scripts]
+finance = "finance_tracker.cli:app"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
