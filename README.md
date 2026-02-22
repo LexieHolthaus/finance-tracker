@@ -1,7 +1,8 @@
 # finance-tracker
 Personal project to practice integrating an llm to live data streams
 File structure:
-finance-tracker/
+finance-tracker
+/
 │
 ├── data/               # raw & processed financial data
 ├── notebooks/          # exploratory analysis
