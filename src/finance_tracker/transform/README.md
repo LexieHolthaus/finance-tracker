@@ -1,0 +1,1 @@
+This module handles normalization, categorization, and consolidation of transactions.

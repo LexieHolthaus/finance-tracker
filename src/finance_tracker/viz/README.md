@@ -1,0 +1,1 @@
+This module handles visualization of spending and net worth.
